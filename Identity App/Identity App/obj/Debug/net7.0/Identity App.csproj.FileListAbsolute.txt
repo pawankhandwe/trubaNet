@@ -1,0 +1,81 @@
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\appsettings.Development.json
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\appsettings.json
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Identity App.staticwebassets.runtime.json
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Identity App.exe
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Identity App.deps.json
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Identity App.runtimeconfig.json
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Identity App.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Identity App.pdb
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.csproj.AssemblyReference.cache
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.AssemblyInfoInputs.cache
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.AssemblyInfo.cs
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.csproj.CoreCompileInputs.cache
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.RazorAssemblyInfo.cache
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.RazorAssemblyInfo.cs
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\staticwebassets\msbuild.Identity App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\staticwebassets\msbuild.build.Identity App.props
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Identity App.props
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Identity App.props
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\staticwebassets.pack.json
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\staticwebassets.build.json
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\staticwebassets.development.json
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\scopedcss\bundle\Identity App.styles.css
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\scopedcss\projectbundle\Identity App.bundle.scp.css
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.dll
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\refint\Identity App.dll
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.pdb
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.genruntimeconfig.cache
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\ref\Identity App.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Azure.Core.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Azure.Identity.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Humanizer.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.CodeDom.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.Memory.Data.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Identity App\Identity App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotnet\Identity App\Identity App\obj\Debug\net7.0\Identity App.csproj.CopyComplete
