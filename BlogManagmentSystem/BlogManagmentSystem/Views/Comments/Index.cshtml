@@ -1,0 +1,48 @@
+﻿@model IEnumerable<BlogManagmentSystem.Models.Comment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Blog Comments Section</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+              Blog Comments Content
+            </th>
+            <th>
+              Blog Id
+            </th>
+            <th>
+               Blog Tittle
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Content)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Blog.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Blog.Title)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

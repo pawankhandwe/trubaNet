@@ -1,0 +1,51 @@
+﻿@model BlogManagmentSystem.Models.Blog
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Edit Blog</h4>
+                    <hr />
+
+                    <form asp-action="Edit" class="needs-validation" novalidate>
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="form-group">
+                            <label asp-for="Title" class="control-label">Title</label>
+                            <input asp-for="Title" class="form-control" required />
+                            <div class="invalid-feedback">Please provide a title.</div>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Content" class="control-label">Content</label>
+                            <textarea asp-for="Content" class="form-control" required rows="4"></textarea>
+                            <div class="invalid-feedback">Please provide content.</div>
+                        </div>
+                        <br />  
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary">Save</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
